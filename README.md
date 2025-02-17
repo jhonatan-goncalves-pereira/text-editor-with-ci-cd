@@ -4,6 +4,10 @@
 ![Underdevelopment](https://img.shields.io/badge/GraphQL-e10098?style=flat&logo=graphql)
 
 
+
+
+
+
 <p align="center">
  <a href="#tech">Technologies</a> • 
  <a href="#started">Getting Started</a> • 
